@@ -1,0 +1,9 @@
+float64 rotationsPerSecond
+
+float64 numberOfLines
+int16 mode
+int16 multiEchoMode
+bool continuous
+---
+bool startedOk
+string errorMsg
